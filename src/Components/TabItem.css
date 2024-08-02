@@ -1,0 +1,19 @@
+.tabs-btn {
+  background-color: transparent;
+  border-color: transparent;
+  outline: none;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.tabs-text {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.yellow-text{
+  color:#fec653 ;
+  text-decoration: underline;
+}

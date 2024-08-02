@@ -1,0 +1,15 @@
+.each-thumbnailitem-container {
+  list-style-type: none;
+}
+
+.thumbnailitem-img {
+  width: 90px;
+  cursor: pointer;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
